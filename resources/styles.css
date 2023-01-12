@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+}
+
+.header {
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ a {
+    color: aquamarine;
+    font-size: 16px;
+ }
